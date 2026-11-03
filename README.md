@@ -4,6 +4,13 @@ A unified, interactive Quantum Key Distribution (QKD) simulator built with **Qis
 
 This suite provides end-to-end simulations of **BB84**, **B92**, and **E91** protocols, models quantum channel attacks (**Intercept-Resend**) and physical noise (depolarizing and bit-flip), and provides rigorous statistical analysis and benchmark comparisons.
 
+## 📞 Contact Information
+
+- Email: yadavmanjeet629@gmail.com
+- Phone: 9451250925
+- Email: abdulkalam754600@gmail.com
+- Phone: 9155748962
+
 ---
 
 ## 🌟 Key Features
